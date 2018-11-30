@@ -52,6 +52,14 @@ artifacts/
 *.meta
 *.obj
 *.pch
+*.dll
+*.obj
+*.exe
+Debug
+.vs
+bin
+obj
+packages
 *.pdb
 *.pgc
 *.pgd
